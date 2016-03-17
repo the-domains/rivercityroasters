@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RiverCityRoasters]]></title>
-        <description><![CDATA[RiverCityRoasters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[River City Roasters]]></title>
+        <description><![CDATA[River City Roasters]]></description>
+        <link>https://thegrid.ai/rivercityroasters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 02:25:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 02:36:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rivercityroasters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The inspiration for River City Roasters comes out of Assam, India. The people there showed us a simple truth: life is best enjoyed in the company of others!  Our goal at River City Roasters is to provide great coffee and provide a place where people are part of a community who loves drinking coffee and appreciates the entire process </p>]]></description>
-            <link>undefineda301b5e5-3058-4c7b-a82a-c701f9972df5/index.html</link>
+            <link>https://thegrid.ai/rivercityroasters/a301b5e5-3058-4c7b-a82a-c701f9972df5/index.html</link>
             <guid isPermaLink="false">a301b5e5-3058-4c7b-a82a-c701f9972df5</guid>
-            <pubDate>Thu, 17 Mar 2016 02:25:22 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 02:36:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
