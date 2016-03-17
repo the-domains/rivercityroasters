@@ -1,7 +1,7 @@
 name: RiverCityRoasters
 favicon: null
-layout_spectrum: 0.791268162894994
-typography_spectrum: 0.5600473403465003
+layout_spectrum: 0.24406
+typography_spectrum: 0.09249
 title: River City Roasters
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#f5821f'
+    - '#64666a'
+    - '#ffffff'
+    - '#a29fa2'
+    - '#fbc89e'
   brandStrength: 0.7990197772160172
   lightness: 0.3265565587207675
   saturation: 0.9766263177152723
